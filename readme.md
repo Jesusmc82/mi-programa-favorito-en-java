@@ -3,8 +3,8 @@ Se trata del ejercicio de examen de recuperación del primer trimestre, que real
  
  - La primera de las versiones es con variables para todo y de manera normal.
  
-    <img src="img/petancaCodigo1.png" height="120px">
-    <img src="img/petancaCodigo2.png" height="120px">
+    <img src="img/petancaCodigo1.png" height="200px">
+    <img src="img/petancaCodigo2.png" height="200px">
     <img src="img/partida1.png" height="120px">
  - La segunda de las versiones es con arrays.
  

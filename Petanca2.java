@@ -31,10 +31,8 @@ public class Petanca2 {
       
       if (posicion[i] <= 11) {
         resta[i] = 11 - posicion[i];
-        System.out.print(" = " + resta[i]);
       } else if (posicion[i] >= 11) {
         resta[i] = posicion[i] - 11;
-        System.out.print(" = " + resta[i]);
       }
       
       System.out.println();

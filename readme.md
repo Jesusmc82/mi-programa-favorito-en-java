@@ -17,3 +17,5 @@ Se trata del ejercicio de examen de recuperación del primer trimestre, que real
 
     <img src="img/partida5.png" height="120px">
     <img src="img/partida6.png" height="120px">
+    
+    

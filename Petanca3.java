@@ -1,9 +1,4 @@
 /**
- * Realiza un programa que rellene un array con 20 números aleatorios comprendidos entre 1 y 100
- * (ambos incluidos) y que los muestre por pantalla. A continuación, el programa contará los números del
- * array que terminan por una determinada cifra. Esta cifra se le preguntará al usuario.
- * Con el boliche lanzado de manera aleatoria y con arrays.
- *
  * @author Jesús Martín Castro
  */
 
